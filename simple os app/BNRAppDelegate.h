@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-
+// this is a comment
 @interface BNRAppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
